@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyo
+*.pyd
+
+# Пакеты
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.log
+
+# Виртуальные среды
+venv/
+env/
+ENV/

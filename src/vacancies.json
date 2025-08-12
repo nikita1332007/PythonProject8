@@ -158,5 +158,329 @@
     "description": "Высшее образование (бух. учет / менеджмент). Знание форм и методов бух. учёта, 1С бухгалтерии, документооборота. Уверенный пользователь программы 1С. ",
     "salary_from": 57000,
     "salary_to": 71000
+  },
+  {
+    "title": "Middle/Middle+ backend developer (python)",
+    "url": "https://hh.ru/vacancy/123911108",
+    "salary_from": 15000000,
+    "salary_to": 20000000,
+    "currency": "UZS",
+    "description": "Proven Experience: Minimum 3+ years in <highlighttext>Python</highlighttext> web development. Fework Expertise: Strong experience with Django (>=5.1.1) and...",
+    "avg": 17500000.0
+  },
+  {
+    "title": "Python разработчик",
+    "url": "https://hh.ru/vacancy/123653121",
+    "salary_from": 10000000,
+    "salary_to": 13000000,
+    "currency": "UZS",
+    "description": "Опыт разработки на <highlighttext>Python</highlighttext>: уверенное владение языком <highlighttext>Python</highlighttext> и его экосистемой. - Глубокое знание фреймворка Django и FastAPI. - Работа с Django...",
+    "avg": 11500000.0
+  },
+  {
+    "title": "Backend разработчик",
+    "url": "https://hh.ru/vacancy/123859400",
+    "salary_from": 450000,
+    "salary_to": 600000,
+    "currency": "KZT",
+    "description": "Опыт разработки на <highlighttext>Python</highlighttext> Django Rest Framework, FastAPI, Flask, создание Rest API с помощью DRF, GraphQL, Channels websocket. ",
+    "avg": 525000.0
+  },
+  {
+    "title": "Руководитель IT отдела",
+    "url": "https://hh.ru/vacancy/123905624",
+    "salary_from": 460000,
+    "salary_to": null,
+    "currency": "RUR",
+    "description": "Глубокое понимание языков программирования 1С, <highlighttext>Python</highlighttext>, Java. Успешный опыт настройки, технического обслуживания и сопровождения: 1С (УТ, ЗУП, БУХ...",
+    "avg": 460000.0
+  },
+  {
+    "title": "Инженер-тестировщик",
+    "url": "https://hh.ru/vacancy/123880053",
+    "salary_from": null,
+    "salary_to": 230000,
+    "currency": "RUR",
+    "description": "Опыт работы от 2 лет в сфере производства Телеком оборудования. Высшее техническое образование. Знание технологий, понимание принципов работы и опыт...",
+    "avg": 230000.0
+  },
+  {
+    "title": "Python-разработчик pre-Middle​​",
+    "url": "https://hh.ru/vacancy/123920083",
+    "salary_from": 130000,
+    "salary_to": 170000,
+    "currency": "RUR",
+    "description": null,
+    "avg": 150000.0
+  },
+  {
+    "title": "Специалист по тестированию (QА Engineer)",
+    "url": "https://hh.ru/vacancy/123821411",
+    "salary_from": null,
+    "salary_to": 130000,
+    "currency": "RUR",
+    "description": "Имеете опыт от 1 года в тестировании коммерческого продукта. Имеете опыт написания тест кейсов по технической документации. Знаете жизненный цикл...",
+    "avg": 130000.0
+  },
+  {
+    "title": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123927226",
+    "salary_from": 120000,
+    "salary_to": null,
+    "currency": "RUR",
+    "description": "Коммерческий опыт с <highlighttext>Python</highlighttext> 3.12+ от 2 лет. Уверенное знание FastAPI, PostgreSQL, SQLAlchemy 2.0. Опыт работы с...",
+    "avg": 120000.0
+  },
+  {
+    "title": "Python Developer / Backend (Junior+/Middle)",
+    "url": "https://hh.ru/vacancy/123932350",
+    "salary_from": 90000,
+    "salary_to": 150000,
+    "currency": "RUR",
+    "description": "Опыт работы в Backend разработке на <highlighttext>Python</highlighttext> от 2 лет. Знание Flask, FastAPI, PostgreSQL, Redis, Celery, Git, Rabbitmq, SQLAlchemy.",
+    "avg": 120000.0
+  },
+  {
+    "title": "Стажер-разработчик",
+    "url": "https://hh.ru/vacancy/123929821",
+    "salary_from": 100000,
+    "salary_to": 100000,
+    "currency": "KZT",
+    "description": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, <highlighttext>Python</highlighttext>, C#, Java, C, C++ и др). Писать код, понимать основные...",
+    "avg": 100000.0
+  },
+  {
+    "title": "Преподаватель IT и программирования в онлайн школу",
+    "url": "https://hh.ru/vacancy/123024298",
+    "salary_from": 50000,
+    "salary_to": 100000,
+    "currency": "RUR",
+    "description": null,
+    "avg": 75000.0
+  },
+  {
+    "title": "Ученик разработчик Python",
+    "url": "https://hh.ru/vacancy/123906191",
+    "salary_from": 40230,
+    "salary_to": null,
+    "currency": "RUR",
+    "description": "Базовые знания <highlighttext>Python</highlighttext> (может быть учебный опыт или самостоятельные проекты). Желание учиться и развиваться в области разработки. Основное понимание принципов...",
+    "avg": 40230.0
+  },
+  {
+    "title": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/123799544",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Знание SPSS приветствуется. Знание SQL, Power BI / Tableau / <highlighttext>Python</highlighttext> приветствуется. Опыт работы с медиаданными или в сфере маркетинговых/социологических исследований...",
+    "avg": 0.0
+  },
+  {
+    "title": "Middle Python-разработчик",
+    "url": "https://hh.ru/vacancy/123917608",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Имеешь коммерческий опыт от 1.5-х лет на <highlighttext>Python</highlighttext>. Имеешь опыт работы с AI-продуктами. Работал с Docker, k...",
+    "avg": 0.0
+  },
+  {
+    "title": "Junior Data Scientist, Отдел сопровождения проектов ИИ",
+    "url": "https://hh.ru/vacancy/123876026",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Умение читать техническую документацию и исследовательские статьи. Владение <highlighttext>Python</highlighttext> (Jupyter Notebook, PyCharm или VS Code). Опыт работы с библиотеками: pandas...",
+    "avg": 0.0
+  },
+  {
+    "title": "Junior Python разработчик",
+    "url": "https://hh.ru/vacancy/123841029",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Высшее образование. Стаж работы не менее 1 года. Знание программ. Грамотная устная и письменная речь. Умение организовывать и выстраивать процессы. ",
+    "avg": 0.0
+  },
+  {
+    "title": "Цифровая душа компании",
+    "url": "https://hh.ru/vacancy/123151117",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "В ИТ-Холдинге Т1 кофе варят на <highlighttext>Python</highlighttext>, а отпуск согласовывают через Telegram-бота. Мы настолько верим в будущее...",
+    "avg": 0.0
+  },
+  {
+    "title": "Специалист по большим данным",
+    "url": "https://hh.ru/vacancy/123883638",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Владение языками программирования <highlighttext>Python</highlighttext> или R. Навыки работы с базами данных PostgreSQL, Oracle SQL. Навыки работы с инструментами: Git, Docker...",
+    "avg": 0.0
+  },
+  {
+    "title": "Бизнес-аналитик",
+    "url": "https://hh.ru/vacancy/123903162",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Проявляете работоспособность и целеустремленность, умеете доводить дела до конца. Знание SQL и <highlighttext>Python</highlighttext> будет плюсом. Знание основ машинного обучения будет...",
+    "avg": 0.0
+  },
+  {
+    "title": "QA-специалист / QA engineer",
+    "url": "https://hh.ru/vacancy/123363444",
+    "salary_from": 200000,
+    "salary_to": null,
+    "currency": "RUR",
+    "description": "У тебя есть опыт работы с Git, ты владеешь инструментами <highlighttext>разработчика</highlighttext> (DevTools), Postman, SOAP UI, Swagger. Ты обладаешь базовыми знаниями...",
+    "avg": 200000.0
+  },
+  {
+    "title": "Junior Frontend Developer (React + TypeScript)",
+    "url": "https://hh.ru/vacancy/123929163",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Solid understanding of React and TypeScript fundamentals. Familiarity with Redux Toolkit and state management concepts. Experience with CSS-in-JS...",
+    "avg": 0.0
+  },
+  {
+    "title": "Junior Frontend разработчик",
+    "url": "https://hh.ru/vacancy/123648356",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Знание Git. Знание JS/HTML/CSS. Знание Vue.js, React, vite. Умение писать SQL. Умение подключать API, асинхронная подгрузка, кеширование. ",
+    "avg": 0.0
+  },
+  {
+    "title": "Middle/middle+ frontend разработчик в команду Архитектуры",
+    "url": "https://hh.ru/vacancy/123947267",
+    "salary_from": 170000,
+    "salary_to": null,
+    "currency": "RUR",
+    "description": "Участвовать в развитии технологий продукта от обсуждения задач до запуска их в production. Находить узкие места в производительности и оптимизировать...",
+    "avg": 170000.0
+  },
+  {
+    "title": "Ведущий юрист",
+    "url": "https://hh.ru/vacancy/123884520",
+    "salary_from": 800000,
+    "salary_to": null,
+    "currency": "KZT",
+    "description": "Высшее юридическое образование. Опыт работы по юридической специальности не менее 5 лет (желательно в крупной коммерческой или международной компании). ",
+    "avg": 800000.0
+  },
+  {
+    "title": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/123544177",
+    "salary_from": 400,
+    "salary_to": 600,
+    "currency": "USD",
+    "description": "Минимум 2 года опыта в frontend web-разработке. Участие минимум в 5 реальных веб-проектах. Опыт работы с REST API. ",
+    "avg": 500.0
+  },
+  {
+    "title": "QA engineer",
+    "url": "https://hh.ru/vacancy/123631590",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Опыт работы в тестировании ПО от 2-х лет (опыт в автоматизации будет преимуществом). Знание основ тестирования: функциональное, регрессионное, нагрузочное...",
+    "avg": 0.0
+  },
+  {
+    "title": "Программист 1С",
+    "url": "https://hh.ru/vacancy/102237656",
+    "salary_from": 150000,
+    "salary_to": 150000,
+    "currency": "RUR",
+    "description": "Опыт работы в аналогичной должности от 2-х лет. Знание подсистем и механизмов типовой конфигурации 1С: Управление Торговлей 11...",
+    "avg": 150000.0
+  },
+  {
+    "title": "Front-e‎nd разработчик / Web-разработчик",
+    "url": "https://hh.ru/vacancy/123737144",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Наиболее ценные навыки и опыт для данной вакансии: Опытное владение HTML/CSS, Javascript/jQuery, Vue.js. Опыт адаптивной верстки и программирования...",
+    "avg": 0.0
+  },
+  {
+    "title": "Помощник программиста: IT-специалист",
+    "url": "https://hh.ru/vacancy/123923132",
+    "salary_from": 250000,
+    "salary_to": null,
+    "currency": "KZT",
+    "description": "Базовые знания работы с ОС Windows. Опыт работы с 1С:Предприятие. Навыки веб-разработки (HTML, CSS, PHP, JavaScript) (будет...",
+    "avg": 250000.0
+  },
+  {
+    "title": "Frontend Software Engineer (Брест)",
+    "url": "https://hh.ru/vacancy/123893966",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Опыт коммерческой разработки (от 1 года). Разрабатывать и поддерживать пользовательские интерфейсы на основе предоставленных дизайн-макетов. Опыт работы с React...",
+    "avg": 0.0
+  },
+  {
+    "title": "React разработчик",
+    "url": "https://hh.ru/vacancy/123921008",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Опыт работы с React от 3 лет (TanStack Router). Опыт работы с React-Native от 3 лет. Опыт работы с...",
+    "avg": 0.0
+  },
+  {
+    "title": "Intern at International Company",
+    "url": "https://hh.ru/vacancy/123859737",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Proficient in English with written and verbal communication skills. Strong analytical and problem-solving abilities. High attention to detail and...",
+    "avg": 0.0
+  },
+  {
+    "title": "Frontend React разработчик (в офис)",
+    "url": "https://hh.ru/vacancy/123946115",
+    "salary_from": 150000,
+    "salary_to": 230000,
+    "currency": "RUR",
+    "description": "Опыт разработки на React и TypeScript от 1 года. Знание Redux и Redux Toolkit. Понимание паттернов проектирования и принципов SOLID. ",
+    "avg": 190000.0
+  },
+  {
+    "title": "Тестировщик QA Engineer Senior/Middle",
+    "url": "https://hh.ru/vacancy/123899317",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Hard skills. Unity Editor. Ответственность. Внимательность. Общительность. Структурное мышление. Системное мышление. Плюсом будут. Опыт автоматизации тестирования. Высшее техническое образование. ",
+    "avg": 0.0
+  },
+  {
+    "title": "Веб-технолог/Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/123942576",
+    "salary_from": null,
+    "salary_to": null,
+    "currency": "",
+    "description": "Отлично владеете HTML и CSS, знакомы с основами дизайна интерфейсов. Знаете JS, как минимум с jQuery. Знакомы с основами Figma...",
+    "avg": 0.0
+  },
+  {
+    "title": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/123822218",
+    "salary_from": 500,
+    "salary_to": 1000,
+    "currency": "USD",
+    "description": "JavaScript, VUE, CSS3, HTML. GSAP, JQuery, Animate.css, Slick.js. Уверенное знание Bootstrap 3-4, GitHub, Bitbucket. Коммуникабельность с коллегами. ",
+    "avg": 750.0
   }
 ]
